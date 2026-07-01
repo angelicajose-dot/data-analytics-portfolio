@@ -6,17 +6,17 @@ This portfolio showcases my transition into data analytics using SQL, Power BI, 
 
 ## Projects
 
-### 1. NPD Portfolio Analytics
-A SQL and Power BI project analyzing new product development projects, trial costs, project status, development timelines, project ranking, and RPD specialist performance.
+### 1. [NPD Portfolio Analytics](01-npd-portfolio-analytics)
+SQL Server and Power BI project analyzing new product development projects, trial investment, project status, development timelines, project ranking, and RPD specialist performance.
 
 **Tools used:** SQL Server, Power BI, Excel  
-**Skills shown:** SQL joins, views, aggregation, ranking, DAX, dashboard design, business insights
+**Skills shown:** SQL joins, SQL views, aggregation, ranking, DAX, dashboard design, drill-through analysis, business insights
 
-### 2. Scrap Reduction Dashboard
-A Power BI dashboard analyzing scrap generation, machine-level performance, before-and-after improvements, cost impact, and potential savings.
+### 2. [Scrap Reduction Dashboard](02-scrap-reduction-dashboard)
+Power BI dashboard analyzing manufacturing scrap performance, scrap causes, machine-level contributors, before-and-after improvement results, and projected annual savings.
 
 **Tools used:** Power BI, Excel, Lean Six Sigma  
-**Skills shown:** KPI analysis, cost savings calculation, process improvement, dashboard storytelling
+**Skills shown:** KPI analysis, Pareto analysis, before-and-after comparison, cost savings calculation, process improvement, dashboard storytelling
 
 ## Data Privacy Notice
 
