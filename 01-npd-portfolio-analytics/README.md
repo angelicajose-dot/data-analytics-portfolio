@@ -9,7 +9,6 @@ In manufacturing R&D, multiple projects may run at the same time. This makes it 
 ## Tools Used
 - SQL Server
 - Power BI
-- Excel
 
 ## Key Metrics
 - Total Projects
