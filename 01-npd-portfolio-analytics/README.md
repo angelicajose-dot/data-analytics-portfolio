@@ -1,7 +1,7 @@
 # NPD Portfolio Analytics
 
 ## Project Overview
-This project analyzes New Product Development portfolio performance using SQL Server and Power BI. It focuses on project status, trial investment, development timelines, project ranking, and RPD specialist workload.
+This project is about analyzing New Product Development performance in a manufacturing R&D setting. In R&D, many projects run at the same time, and without a structured view, it becomes hard to monitor which projects are progressing, which are consuming high trial cost, and which resources are overloaded.
 
 ## Business Problem
 In manufacturing R&D, multiple projects may run at the same time. This makes it important to monitor project progress, trial costs, resource allocation, and development efficiency.
