@@ -6,6 +6,9 @@ This project is about analyzing New Product Development performance in a manufac
 ## Business Problem
 In manufacturing R&D, multiple projects may run at the same time. This makes it important to monitor project progress, trial costs, resource allocation, and development efficiency.
 
+## Goal
+To organize project and trial data into a dashboard that can help management monitor project status, investment, development timelines, and RPD specialist workload.
+
 ## Tools Used
 - SQL Server
 - Power BI
