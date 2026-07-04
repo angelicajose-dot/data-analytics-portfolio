@@ -32,7 +32,7 @@ In manufacturing R&D, multiple projects may run at the same time. This makes it 
 
 The `sql` folder contains SQL queries and views used for the analysis, including:
 
-- Executive overview
+- Executive overview - What is the overall portfolio performance?
 - Investment by project status
 - Monthly trial investment trend
 - Top 10 highest investment projects
