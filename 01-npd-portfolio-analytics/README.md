@@ -33,15 +33,15 @@ In manufacturing R&D, multiple projects may run at the same time. This makes it 
 The `sql` folder contains SQL queries and views used for the analysis, including:
 
 - Executive overview - What is the overall portfolio performance?
-- Investment by project status
-- Monthly trial investment trend
-- Top 10 highest investment projects
-- Project status distribution
-- High-cost project classification
-- Project investment ranking
-- Project development timeline
-- RPD specialist performance
-- Project drill-through data
+- Investment by project status - Where is the money going: launched, ongoing, shelved, approved?
+- Monthly trial investment trend - How does trial spending move over time?
+- Top 10 highest investment projects - Which projects consume the highest resources?
+- Project status distribution - How many projects are launched, shelved, ongoing, etc.?
+- High-cost project classification - Which projects need cost attention?
+- Project investment ranking - Which projects should management review first?
+- Project development timeline - How long does each project take?
+- RPD specialist performance - How is workload distributed across RPD specialists?
+- Project drill-through data - Allows detailed review per project in Power BI
 
 ## Power BI Skills Demonstrated
 - Data modeling
