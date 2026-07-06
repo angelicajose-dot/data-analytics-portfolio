@@ -6,7 +6,7 @@ This portfolio showcases my transition into data analytics using SQL, Power BI, 
 
 ## Projects
 
-### 1. [NPD Portfolio Analytics](01-npd-portfolio-analytics)
+### 1. [NPD Portfolio Analytics for 2025](01-npd-portfolio-analytics)
 SQL Server and Power BI project analyzing new product development projects, trial investment, project status, development timelines, project ranking, and RPD specialist performance.
 
 **Tools used:** SQL Server, Power BI, Excel  
