@@ -10,6 +10,10 @@ Scrap generation increases production cost and reduces manufacturing efficiency.
 
 This dashboard provides visibility into scrap trends, machine performance, and before-versus-after improvement results.
 
+## Goal
+
+The goal of this project is to develop an interactive Scrap Reduction Dashboard that helps monitor manufacturing scrap performance before and after process improvement implementation.
+
 ## Tools Used
 - Power BI
 - Excel
