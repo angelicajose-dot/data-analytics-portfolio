@@ -20,4 +20,4 @@ Power BI dashboard analyzing manufacturing scrap performance, scrap causes, mach
 
 ## Data Privacy Notice
 
-All datasets used in this portfolio are anonymized or synthetic. No confidential company data, proprietary formulas, customer information, supplier information, internal records, or actual company files are included.
+All datasets used in this portfolio are anonymized. No confidential company data, proprietary formulas, customer information, supplier information, internal records, or actual company files are included.
