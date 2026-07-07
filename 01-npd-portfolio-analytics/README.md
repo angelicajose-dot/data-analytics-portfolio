@@ -70,5 +70,4 @@ The `sql` folder contains SQL queries and views used for the analysis, including
 ![Project Drillthrough](dashboard/04_project_drillthrough.png)
 
 ## Data Privacy
-This project uses synthetic and anonymized sample data. It does not contain actual company records, proprietary product information, internal formulas, or confidential business data.
-
+All datasets used in this portfolio are anonymized. No confidential company data, proprietary formulas, customer information, supplier information, internal records, or actual company files are included.
