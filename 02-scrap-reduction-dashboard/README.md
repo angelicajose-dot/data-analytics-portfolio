@@ -59,4 +59,4 @@ The original improvement project resulted in approximately 22% total scrap reduc
 The dashboard helps translate manufacturing data into actionable insights by showing which machines, processes, and scrap causes should be prioritized for improvement.
 
 ## Data Privacy
-This portfolio project uses anonymized or synthetic sample data. It does not include actual company production records, machine identifiers, product names, internal formulas, confidential cost structures, supplier information, customer information, or proprietary business data.
+All datasets used in this portfolio are anonymized. No confidential company data, proprietary formulas, customer information, supplier information, internal records, or actual company files are included.
