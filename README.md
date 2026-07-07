@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Hi, I’m Angelica Jose, a licensed Chemical Engineer with 7+ years of experience in Research and Product Development, manufacturing, Lean Six Sigma, and process improvement.
+Hi, I’m Angelica Jose, a licensed Chemical Engineer with 7+ years of experience in Research and Development, manufacturing, Lean Six Sigma, and process improvement.
 
 This portfolio showcases my transition into data analytics using SQL, Power BI, Excel, and business analysis. The projects are inspired by real manufacturing and product development problems, but all data used is anonymized or synthetic for confidentiality.
 
